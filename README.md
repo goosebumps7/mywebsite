@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/goosebumps7/mywebsite.png?label=ready&title=Ready)](https://waffle.io/goosebumps7/mywebsite)
 # mywebsite
 
 **This is a website about the games that I like to play**
